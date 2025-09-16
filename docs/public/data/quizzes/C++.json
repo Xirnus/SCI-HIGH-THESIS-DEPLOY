@@ -1,0 +1,110 @@
+{
+  "questions": [
+    {
+      "question": "Which operator is used for input in C++?",
+      "options": ["<<", ">>", "cin", "->"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the extension of C++ source file?",
+      "options": [".c", ".java", ".cpp", ".py"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the following is a correct class declaration?",
+      "options": ["class MyClass {}", "MyClass class {}", "declare class MyClass {}", "class: MyClass {}"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is used to define a namespace in C++?",
+      "options": ["module", "package", "namespace", "using"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does OOP stand for in C++?",
+      "options": ["Object-Oriented Programming", "Optional Output Processing", "Only One Process", "Operating On Pointers"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which keyword is used to inherit a class in C++?",
+      "options": ["inherits", "extends", "public", "using"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What will `cout << 5 + 10;` output?",
+      "options": ["5 + 10", "15", "cout", "Error"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which access specifier makes members accessible only within the class?",      "options": ["public", "private", "protected", "default"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is function overloading in C++?",
+      "options": ["Functions with different names", "Functions with same name but different parameters", "Functions inside other functions", "Private functions"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the use of the `new` operator?",
+      "options": ["To free memory", "To define a pointer", "To allocate memory", "To create namespaces"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Complete the code: To include the standard input/output library in C++, you write #include <_____>",
+      "type": "fill-in-the-blank",
+      "correctAnswers": ["iostream", "IOSTREAM"]
+    },
+    {
+      "question": "Fill in the blank: To output text to the console in C++, you use _____ << \"Hello World\";",
+      "type": "fill-in-the-blank",
+      "correctAnswers": ["cout", "std::cout", "COUT"]
+    },
+    {
+      "question": "Complete this statement: The _____ operator is used to access members of an object through a pointer.",
+      "type": "fill-in-the-blank",
+      "correctAnswers": ["->", "arrow", "pointer arrow"]
+    }
+  ],
+  "codeArrangement": [
+    {
+      "title": "Arrange the C++ code blocks in correct order:",
+      "description": "Create a simple Hello World program",
+      "blocks": [
+        "#include <iostream>",
+        "using namespace std;",
+        "int main() {",
+        "    cout << \"Hello, World!\" << endl;",
+        "    return 0;",
+        "}"
+      ],
+      "correctOrder": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "title": "Arrange the C++ code blocks in correct order:",
+      "description": "Calculate sum of two numbers",
+      "blocks": [
+        "int a, b, sum;",
+        "cout << \"Enter two numbers: \";",
+        "cin >> a >> b;",
+        "sum = a + b;",
+        "cout << \"Sum: \" << sum << endl;"
+      ],
+      "correctOrder": [0, 1, 2, 3, 4]
+    },
+    {
+      "title": "Arrange the C++ code blocks in correct order:",
+      "description": "Simple class definition",
+      "blocks": [
+        "class Rectangle {",
+        "private:",
+        "    int width, height;",
+        "public:",
+        "    void setDimensions(int w, int h) {",
+        "        width = w; height = h;",
+        "    }",
+        "};"
+      ],
+      "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

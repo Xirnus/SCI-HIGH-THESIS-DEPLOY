@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "author": "Computer Science Study Material",
+      "status": "available",
+      "description": "Complete HTML programming guide",
+      "link": "https://www.snggdcg.ac.in/pdf/study-material/computer-science/0071611436%20HTML.pdf",
+      "icon": "web-design_logo"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "author": "Jon Duckett",
+      "status": "available",
+      "description": "HTML and CSS: Design and Build Websites",
+      "link": "https://sites.math.duke.edu/courses/math_everywhere/assets/techRefs/HTML%20and%20CSS-%20Design%20and%20Build%20Websites_Jon%20Duckett_2011.pdf",
+      "icon": "web-design_logo"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript",
+      "author": "Terry McNavage",
+      "status": "available",
+      "description": "JavaScript for Absolute Beginners",
+      "link": "https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Absolute-Beginners.pdf",
+      "icon": "web-design_logo"
+    },
+    {
+      "id": 4,
+      "title": "Python",
+      "author": "Real Python",
+      "status": "available",
+      "description": "Python Basics Sample Chapters",
+      "link": "https://static.realpython.com/python-basics-sample-chapters.pdf",
+      "icon": "python_logo"
+    },
+    {
+      "id": 5,
+      "title": "Java",
+      "author": "University of Malta",
+      "status": "available",
+      "description": "Java Programming Guide",
+      "link": "https://staff.um.edu.mt/__data/assets/pdf_file/0010/57169/jn.pdf",
+      "icon": "java_logo"
+    }
+  ]
+}

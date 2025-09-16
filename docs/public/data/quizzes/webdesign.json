@@ -1,0 +1,464 @@
+{
+  "intensity1": {
+    "multipleChoice": [
+      {
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Text Markup Language", "High Tech Machine Learning", "Hyperlinks and Text Markup Language", "Home Tool Markup Language"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "options": ["<link>", "<a>", "<href>", "<hyper>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which tag is used for inserting an image?",
+        "options": ["<img>", "<picture>", "<src>", "<graphic>"],
+        "correctIndex": 0
+      },
+      {
+        "question": "What attribute specifies the URL of an image in HTML?",
+        "options": ["alt", "src", "href", "url"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which HTML element is used to define a table row?",
+        "options": ["<td>", "<tr>", "<th>", "<row>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which of the following is a block-level element?",
+        "options": ["<span>", "<div>", "<b>", "<i>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which HTML tag is used to define the largest heading?",
+        "options": ["<h6>", "<h1>", "<head>", "<title>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which attribute is used to provide alternative text for an image?",
+        "options": ["src", "alt", "title", "name"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the correct HTML for creating a numbered list?",
+        "options": ["<ul>", "<ol>", "<list>", "<number>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which element is used to insert a line break?",
+        "options": ["<lb>", "<br>", "<break>", "<newline>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which HTML tag defines a checkbox?",
+        "options": ["<input type=\"checkbox\">", "<checkbox>", "<input=\"check\">", "<input checkbox>"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which element is used to define emphasized text?",
+        "options": ["<i>", "<em>", "<b>", "<strong>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which HTML tag is used to play video files?",
+        "options": ["<media>", "<movie>", "<video>", "<play>"],
+        "correctIndex": 2
+      },
+      {
+        "question": "What does the <title> element define?",
+        "options": ["The page's heading", "The browser tab title", "The largest text on page", "A tooltip"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which attribute specifies where to open a linked document?",
+        "options": ["src", "target", "href", "open"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which HTML element is used to define a footer?",
+        "options": ["<bottom>", "<footer>", "<foot>", "<end>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the <th> element represent in a table?",
+        "options": ["Table row", "Table header cell", "Table data cell", "Table head"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which HTML5 element is used to draw graphics?",
+        "options": ["<graphics>", "<canvas>", "<draw>", "<svg>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which element is used for inline styling of text?",
+        "options": ["<style>", "<span>", "<div>", "<font>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which attribute makes a form field mandatory?",
+        "options": ["required", "validate", "mustfill", "needed"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which element is used to define navigation links?",
+        "options": ["<menu>", "<nav>", "<links>", "<navbar>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which HTML attribute is used to uniquely identify an element?",
+        "options": ["class", "id", "name", "key"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which tag is used to display preformatted text?",
+        "options": ["<text>", "<pre>", "<code>", "<p>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which input type is used to define a slider control?",
+        "options": ["range", "slider", "scroll", "input-slide"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which tag defines the document body?",
+        "options": ["<body>", "<main>", "<html>", "<content>"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which HTML tag defines a dropdown list?",
+        "options": ["<list>", "<dropdown>", "<select>", "<option>"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which HTML tag is used for inline frames?",
+        "options": ["<frame>", "<iframe>", "<window>", "<embed>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the <meta charset=\"UTF-8\"> tag do?",
+        "options": ["Defines the website language", "Specifies character encoding", "Adds metadata description", "Links a CSS file"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which HTML element defines the main content of a document?",
+        "options": ["<main>", "<section>", "<article>", "<content>"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which input type is used for selecting a date?",
+        "options": ["<input type=\"datetime\">", "<input type=\"calendar\">", "<input type=\"date\">", "<input type=\"time\">"],
+        "correctIndex": 2
+      }
+    ]
+  },
+  "intensity2": {
+    "multipleChoice": [
+      {
+        "question": "Which CSS property is used to change the text color of an element?",
+        "options": ["font-color", "color", "text-style", "text-color"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which CSS property controls the size of text?",
+        "options": ["font-size", "text-size", "font-style", "size"],
+        "correctIndex": 0
+      },
+      {
+        "question": "How do you select an element with the id \"header\"?",
+        "options": [".header", "header", "#header", "*header"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which CSS property is used to change the background color?",
+        "options": ["bgcolor", "background-color", "color-background", "back-color"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which CSS property controls the space between content and its border?",
+        "options": ["margin", "padding", "spacing", "border-gap"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the correct syntax to link an external CSS file?",
+        "options": ["<style src=\"style.css\">", "<link rel=\"stylesheet\" href=\"style.css\">", "<css link=\"style.css\">", "<stylesheet>style.css</stylesheet>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which CSS property makes text bold?",
+        "options": ["text-weight", "font-bold", "font-weight", "bold"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which CSS value hides an element but keeps its space reserved?",
+        "options": ["display: none", "visibility: hidden", "opacity: 0", "hidden: true"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which CSS property sets the space outside the border of an element?",
+        "options": ["padding", "spacing", "margin", "outline"],
+        "correctIndex": 2
+      },
+      {
+        "question": "How do you select all <p> elements inside a <div>?",
+        "options": ["p.div", "div p", "div+p", "div.p"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which CSS property changes the mouse pointer?",
+        "options": ["mouse", "cursor", "pointer", "icon"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which CSS property controls underlining of text?",
+        "options": ["font-decoration", "text-decoration", "decoration", "text-style"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which position value places an element relative to its nearest positioned ancestor?",
+        "options": ["absolute", "fixed", "relative", "static"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which CSS unit is relative to the root element's font size?",
+        "options": ["%", "em", "rem", "px"],
+        "correctIndex": 2
+      },
+      {
+        "question": "What does z-index control?",
+        "options": ["Element size", "Element transparency", "Element stacking order", "Element alignment"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which syntax allows multiple background images?",
+        "options": ["bg()", "background()", "background-image()", "background-image with comma"],
+        "correctIndex": 3
+      },
+      {
+        "question": "Which property controls transparency of an element?",
+        "options": ["opacity", "transparency", "alpha", "visible"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which CSS property transforms text to uppercase?",
+        "options": ["text-transform", "font-style", "text-uppercase", "capitalize"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which pseudo-class styles an element when the mouse hovers over it?",
+        "options": [":focus", ":hover", ":active", ":visited"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which CSS property creates rounded corners?",
+        "options": ["border-style", "border-round", "border-radius", "round-corner"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which display value allows block properties but stays inline?",
+        "options": ["block", "inline", "inline-block", "flex"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which CSS property aligns text horizontally?",
+        "options": ["align-text", "text-align", "horizontal-align", "align"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which CSS property defines thickness of text?",
+        "options": ["font-style", "text-weight", "font-weight", "boldness"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which CSS rule adapts styles for screen sizes?",
+        "options": ["@resize", "@responsive", "@media", "@query"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which position keeps an element fixed relative to the viewport?",
+        "options": ["static", "absolute", "relative", "fixed"],
+        "correctIndex": 3
+      },
+      {
+        "question": "Which property sets the order of flex items?",
+        "options": ["flex-order", "item-order", "order", "align-order"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which property sets column layout in CSS Grid?",
+        "options": ["grid-template-columns", "grid-columns", "columns-template", "grid-structure"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which property makes an element a flex container?",
+        "options": ["flex-container", "display: flex", "flex: container", "container: flex"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which function applies transformations (rotate, scale, etc.)?",
+        "options": ["transform()", "translate()", "effect()", "modify()"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which property allows smooth transitions between styles?",
+        "options": ["animate", "transition", "ease", "timing"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  "intensity3": {
+    "codeArrangement": [
+      {
+        "question": "Where is the best place to put a JavaScript <script> tag for faster loading?",
+        "options": ["In the <head>", "At the end of <body>", "In the <title>", "Before <!DOCTYPE html>"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which symbol is used for a single-line comment in JavaScript?",
+        "options": ["<!-- -->", "#", "//", "/**/"],
+        "correctIndex": 2
+      },
+      {
+        "question": "What does console.log(\"Hello\"); do?",
+        "options": ["Shows a pop-up with \"Hello\"", "Prints \"Hello\" in the browser console", "Writes \"Hello\" on the webpage", "Gives an error"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which keyword declares a variable that can change later?",
+        "options": ["var", "let", "const", "define"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the data type of \"123\"?",
+        "options": ["number", "string", "integer", "undefined"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which keyword is used to declare a constant value?",
+        "options": ["let", "var", "const", "static"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which operator checks both value and type?",
+        "options": ["==", "===", "=", "!="],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the result of 5 + \"5\"?",
+        "options": ["10", "55", "NaN", "Error"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which operator is used for multiplication?",
+        "options": ["+", "*", "=", "&&"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What does the else block do?",
+        "options": ["Runs when condition is true", "Runs when condition is false", "Repeats code", "Stops the program"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which loop runs at least once even if the condition is false?",
+        "options": ["for", "while", "do…while", "foreach"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which statement is used for many choices?",
+        "options": ["if", "else", "switch", "case"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Which keyword makes a function send back a value?",
+        "options": ["output", "return", "yield", "end"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What is the correct arrow function syntax?",
+        "options": ["function => { }", "() => { }", "=> function { }", "function() -> { }"],
+        "correctIndex": 1
+      },
+      {
+        "question": "What will add(2,3) return if: function add(a,b){ return a+b; }?",
+        "options": ["23", "5", "NaN", "undefined"],
+        "correctIndex": 1
+      },
+      {
+        "question": "How do you access name in person.name?",
+        "options": ["person[\"name\"]", "person->name", "person(name)", "person::name"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which method adds an item to the end of an array?",
+        "options": ["shift()", "pop()", "push()", "unshift()"],
+        "correctIndex": 2
+      },
+      {
+        "question": "What does arr.length give?",
+        "options": ["The size of the array", "The last element", "The first element", "Nothing"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which method finds an element by ID?",
+        "options": ["document.getElementById()", "document.querySelectorAll()", "document.getElementsByClassName()", "document.getElementByName()"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which event happens when you click something?",
+        "options": ["onhover", "onclick", "onmouseover", "onchange"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which property changes the text inside an element?",
+        "options": ["innerHTML", "textChange", "textContent()", "value()"],
+        "correctIndex": 0
+      },
+      {
+        "question": "A function inside another function is called a?",
+        "options": ["Callback", "Closure", "Promise", "Method"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which word is used with async functions?",
+        "options": ["defer", "await", "sync", "yield"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which object represents something that finishes in the future?",
+        "options": ["Closure", "Promise", "Array", "Function"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which block catches errors?",
+        "options": ["error{}", "catch{}", "throw{}", "debug{}"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which keyword creates an error?",
+        "options": ["error", "throw", "catch", "break"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which method shows errors in the console?",
+        "options": ["console.write()", "console.error()", "console.log()", "console.warn()"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which method runs code after a delay?",
+        "options": ["setInterval()", "setTimeout()", "sleep()", "delay()"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which storage clears after closing the browser?",
+        "options": ["localStorage", "sessionStorage", "cache", "cookies"],
+        "correctIndex": 1
+      },
+      {
+        "question": "Which object represents the browser window?",
+        "options": ["document", "screen", "window", "console"],
+        "correctIndex": 2
+      }
+    ]
+  }
+}
