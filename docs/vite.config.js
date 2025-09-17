@@ -9,11 +9,11 @@ export default defineConfig({
     emptyOutDir: true,
     rollupOptions: {
       input: {
-        main: './index.html',
-        game: './game.html',
-        leaderboards: './leaderboards.html',
-        'professor-dashboard': './professor-dashboard.html',
-        developer: './developer.html'
+        main: './pages/index.html',
+        game: './pages/game.html',
+        leaderboards: './pages/leaderboards.html',
+        'professor-dashboard': './pages/professor-dashboard.html',
+        developer: './pages/developer.html'
       },
     },
   },
