@@ -9,8 +9,8 @@ export default defineConfig({
     emptyOutDir: true,
     rollupOptions: {
       input: {
-        main: './pages/index.html',
-        game: './pages/game.html',
+        main: './index.html',
+        game: './game.html',
         leaderboards: './pages/leaderboards.html',
         'professor-dashboard': './pages/professor-dashboard.html',
         developer: './pages/developer.html'
